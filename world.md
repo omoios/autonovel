@@ -1,4 +1,3 @@
-```markdown
 # WORLD.MD: THE STRATA OF OUROBOROS
 
 **REFERENCE STATUS:** DEFINITIVE
@@ -185,4 +184,3 @@ The city is a cylinder, roughly five miles in diameter, descending into the eart
 *   **The Hum:** Every few nights, a low hum resonates through the city bedrock. It doesn't match any known machine frequency. The Excavators say it's the planet screaming.
 *   **The White Dust:** Sometimes, the Sanitizers dump a white powder instead of gray sludge. It smells like ozone and burns the skin. No one knows what it is.
 *   **The Ghost of the Spire:** A rumor that the High Auditor Vex is actually the same man who founded the city, kept alive by Chronite injections. He has been seen wearing a signet ring from the Year 50.
-```

@@ -1,4 +1,3 @@
-```markdown
 # CHARACTERS.MD: THE REGISTRY OF OUROBOROS
 
 **REFERENCE STATUS:** DEFINITIVE
@@ -311,5 +310,3 @@ Joren appears to Cassian during high-Nausea episodes. He is the physical manifes
 3.  **Otho:** The Sacrifice of the Self. (Can the weak protect the strong?)
 4.  **The Queen:** The Authority of History. (Does the past own the present?)
 5.  **Kait:** The Adaptability of Life. (How do we survive the ruins?)
-
-```
