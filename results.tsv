@@ -46,3 +46,4 @@ reverted	rev-ch10	7.0	2074	discard	Cycle 3: momentum_loss regressed 7.8->7.0
 cc94f95	rev-ch13	8.0	3476	keep	Cycle 3: momentum_loss improved 6.7->8.0
 bc6072f	revision-cycle-3	8.0	67975	cycle	Cycle 3: novel_score 8.0->8.0
 2f0c3fa	rev-ch10	6.8	2674	keep	Cycle 3: momentum_loss improved 6.8->6.8
+24ac261	rev-ch09	6.7	1765	keep	Cycle 3: momentum_loss improved 5.7->6.7
