@@ -124,3 +124,7 @@ IMPORTANT:
 print("Calling writer model...", file=sys.stderr)
 result = call_writer(prompt)
 print(result)
+
+# Persist to disk so the orchestrator and evaluate.py can read it.
+(BASE_DIR / "world.md").write_text(result)
+print(f"Wrote world.md ({len(result):,} chars)", file=sys.stderr)

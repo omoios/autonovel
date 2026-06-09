@@ -35,9 +35,15 @@ def call_writer(prompt, max_tokens=16000):
     resp.raise_for_status()
     return resp.json()["content"][0]["text"]
 
-part1 = open('/tmp/outline_output.md').read()
+# Read part 1 from outline.md first (canonical location), fall back to /tmp
+# for backward compatibility with manual workflows.
+_part1_path = BASE_DIR / "outline.md"
+if not _part1_path.exists() or len(_part1_path.read_text()) < 200:
+    _part1_path = Path("/tmp/outline_output.md")
+part1 = _part1_path.read_text() if _part1_path.exists() else ""
+if not part1:
+    sys.exit("ERROR: outline.md (or /tmp/outline_output.md) not found. Run gen_outline.py first.")
 mystery = (BASE_DIR / "MYSTERY.md").read_text()
-
 prompt = f"""Here are the first 17 chapters of a 24-chapter outline for "The Second Son of the House of Bells."
 The outline was cut off mid-chapter-17. Continue from where it left off, then complete chapters 18-24,
 then write the Foreshadowing Ledger.

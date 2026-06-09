@@ -149,13 +149,16 @@ def main():
     
     # Compute novel-wide averages
     all_vals = list(results.values())
+    if not all_vals:
+        print("VOICE FINGERPRINT")
+        print("=" * 70)
+        print("No chapters found in chapters/. Skipping fingerprint.")
+        return
     avg = {}
     for key in all_vals[0]:
         vals = [r[key] for r in all_vals]
         avg[key] = round(statistics.mean(vals), 2)
     results["novel_average"] = avg
-    
-    # Find outliers (>1.5 std from mean)
     outliers = {}
     for key in all_vals[0]:
         vals = [r[key] for r in all_vals]
@@ -179,6 +182,8 @@ def main():
     print(f"{'Ch':<8} {'Words':<7} {'AvgSnt':<7} {'CV':<6} {'Frag%':<7} {'Long%':<7} {'Dial%':<7} {'Mus%':<6} {'Trd%':<6} {'Bod%':<6} {'AbsPK':<6} {'HeStrt':<7}")
     for ch in range(1, 25):
         key = f"ch_{ch:02d}"
+        if key not in results:
+            continue
         r = results[key]
         print(f"  {ch:<6} {r['word_count']:<7} {r['avg_sentence_length']:<7} {r['sentence_length_cv']:<6} {r['fragments_pct']:<7} {r['long_sentences_pct']:<7} {r['dialogue_ratio']:<7} {r['well_musical_pct']:<6} {r['well_trade_pct']:<6} {r['well_body_pct']:<6} {r['abstract_per_1k']:<6} {r['he_start_pct']:<7}")
     

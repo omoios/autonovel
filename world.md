@@ -1,180 +1,188 @@
-# WORLD.MD: OUROBOROS
+```markdown
+# WORLD.MD: THE STRATA OF OUROBOROS
 
-**Status:** Definitive Reference  
-**Version:** 1.0  
-**Access:** Chronicler Level 4
+**REFERENCE STATUS:** DEFINITIVE
+**VOLUME:** 01 (The City and The Pit)
+**LAST UPDATED:** Pre-Draft Phase
 
 ---
 
-## Part 1: Voice Identity
+## VOICE IDENTITY
 
 ### Tone
-"Spare and corrosive. The narrative voice is dry, cynical, and exhausted, reflecting a protagonist who has seen too much to be impressed and too little to be hopeful. The prose prioritizes texture over ornamentation. It is the sound of a man coughing up dust in a crumbling room."
+The prose is **archival and urgent**. It reads like a salvage report written by a man who knows the ceiling is collapsing. The tone avoids melodrama; the horror is in the geology. The city is not a metaphor, it is a machine that eats people. The voice should feel cramped, dusty, and precise.
 
 ### Sentence Rhythm
-*   **Excavation (Worldbuilding):** Long, rolling sentences that mimic the sinking of the city or the drilling of a bore. They layer detail upon detail, creating pressure.
-*   **Action (Violence):** Short, fractured sentences. Sudden stops. The rhythm of a rockfall.
-*   **Dialogue:** Clipped, utilitarian. In the Depths, words are breath; you don't waste them.
+*   **Narration:** Rigid and rhythmic. Sentences are short, clipped, factual. Subject-verb-object. The narration describes the physical world with the detachment of a geological survey, which makes the moments of human emotion land harder.
+*   **Action:** Staccato. Fragments. Panic breaks the syntax.
+*   **Description:** Accumulative. Lists of layers, smells, and textures to build density.
 
 ### Vocabulary Register
-*   **Geological/Industrial:** Strata, sediment, bore, seam, fault, pressure, erode, slurry, tailings, excavation.
-*   **Chronological:** Rot, lag, drift, sync, interval, residue, deep-time.
-*   **Avoid:** Flowery euphemisms for death or magic. No "souls" or "spirits." Use "biomass" or "residue."
+*   **Lexicon:** Industrial, geological, and archival. Words like *strata, sediment, excavation, compression, viscosity, era, residue, sanitization, audit*.
+*   **Avoid:** Flowery euphemisms for death or magic. No "souls," "spirits," or "afterlife." Use *biomass*, *memory-echo*, *temporal displacement*.
 
 ### POV and Tense
-*   **Third-Person Limited (The Chronicler).** We see only what the protagonist sees.
-*   **Present Tense.** The city is eroding *now*. The past is a physical place *below*. The tense adds immediacy to the decay.
+**Third-Person Limited (The Chronicler).** We see only what Cassian sees. We know only what he remembers. The tense is **Immediate Past**. The narrative creates a claustrophobic intimacy by trapping us inside Cassian’s headspace, which is often addled by Nausea.
 
 ### Dialogue Conventions
-*   **Tags:** Almost exclusively "said." Action beats used to indicate tone.
-*   **Subtext:** Characters rarely state their true intent. Trust is a currency harder to find than clean water. A question is often a threat; an answer is often a negotiation.
+*   **Tags:** Almost exclusively "said" or action beats. No adverbs in attribution.
+*   **Style:** People in Ouroboros speak in shorthand. They are constantly listening for the sound of drilling or collapsing infrastructure. Conversations are quick, transactional, and paranoid. Subtext is king; saying the wrong word can attract a Sanitizer audit.
 
 ### Exemplar Passages
+> The tunnel smelled of ozone and burnt hair. Cassian scraped the shovel against the black vein of Chronite, flaking away a chunk of compressed time. It hummed. A low-frequency vibration that rattled his teeth. The layer was dated Year 400. The Sanitation Era. If he dug too deep, he’d hit the bedrock of the Founding, and the pressure would crush his lungs like wet paper. He didn't dig for gold or jewels. He dug for the Queen. She was down there, fossilized in the shale, waiting for someone to crack her open and let the treason out.
 
-> *The city above us groaned, a sound like a hull breaching. I didn't look up. You don't look up in the Slag; you watch your feet, because the floor is what kills you. The floor is made of yesterday. A chunk of masonry fell past my face, trailing a stream of black Chronite like blood. It was still warm. Someone’s kitchen, maybe. Someone’s Tuesday. I stepped over it and kept digging.*
-
-> *She looked like a statue carved from salt. Her skin was white, hard, flaking at the edges. That’s what the Deep does to you. It turns your soft hours into stone. 'You’re rotting,' I told her. She didn't blink. Her eyes were glass. 'I am preserving,' she said, and her voice sounded like two stones grinding together.*
-
-> *The Sanitizer didn't wear a mask. He wanted us to see he had no face to hide. Just the smooth, blank skin where a nose should have been. They cut it off, you know. The nose. So they can’t smell the stench of the history they’re burning.*
+> Above them, the city groaned. The sound of massive gears grinding against bedrock. The rich were awake in the Spire, polishing their marble, sweeping their dust into the chutes. It fell on the Slums like gray snow. "Hurry," the woman said. Her voice was thin, worn down by years of breathing recycled air. "The drill-bit is turning. I can feel the tremor in my knees." Cassian didn't answer. He just dug. The past was heavy, and it wanted to stay buried.
 
 ### Anti-Exemplars
-*   *Too Flowery:* "The golden tapestry of time wove a shimmering web around his soul." (REJECTED. Time is not a tapestry; it is a rock layer. It is heavy.)
-*   *Too Modern:* "He checked his watch; the temporal readout was negative." (REJECTED. Technology is retrograde industrial. No digital readouts.)
-*   *Too Generic:* "The dark dungeon was scary." (REJECTED. Specificity required. "The tunnel smelled of sulfur and the sweat of a thousand dead shift-workers.")
+> *The city was a tapestry of myriad wonders, a vibrant realm where the denizens wove their destinies into the very fabric of existence.* (Too flowery, too generic, violates the industrial tone).
+> *He felt a magical connection to the ancient spirits of the earth.* (Too soft. Magic is physical and painful here).
+> *The sun shone brightly on the bustling marketplace.* (There is no sun. The city is underground or encased in shadow. Light is a utility).
 
 ---
 
-## Cosmology & History
+## COSMOLOGY & HISTORY
 
-### The Founding: The Great Descent
-Three hundred years ago, the city of Ouroboros sat on a fertile plain. Then came the **First Sink**. The ground didn't just crack; it liquefied. The city began to slide. The wealthy built towers to reach the sky; the poor dug mines to stabilize the earth. They failed. The city kept sinking. The realization followed: The city wasn't falling *into* the earth; the earth was rising *around* the city, or time was compressing beneath it.
+### The Founding (The Descent)
+The city of Ouroboros was not built; it was **dug**. Three thousand years ago, the surface became uninhabitable due to the **Solar Scorch**. The survivors burrowed into the earth to find the subterranean oil fields of **Chronite**. They realized that the black oil was not dead fossil fuel, but solidified time—compressed moments from the lives of those who had died on the surface.
 
-### The Era of The Queen (The Target Layer)
-**Queen Caelum:** Two centuries dead. She ruled during the **Stagnation**, a time when the city stopped sinking for forty years. She tried to turn the excavation machines *upward* to free the city. The **Architects** (ancestors of the Sanitizers) murdered her and buried her in a sealed crypt deep within the sediment, entombing her revolutionary ideas with her body. Her reign is the "illegal history" the Chronicler seeks.
+### The Vertical Expansion
+As society rebuilt, they built upwards, using the excavated stone to construct platforms. The city became a vertical cylinder. The lowest levels are the oldest; the highest levels are the newest.
+*   **The Law of Sediment:** For every new floor built, an old floor must be abandoned to the Pit. The city physically grows by shedding its skin.
 
-### The Rise of The Sanitizers
-Fifty years ago, the ruling class realized that history was heavy. The weight of the past was literally crushing the city. They formed the **Bureau of Sanitization**. Their mandate: "Lighten the Load." They began drilling into the lower layers, mining the buildings and bones of the past to burn as fuel. They re-wrote the textbooks. They erased the Queen.
+### The Queen’s Interregnum (Year 50 - 100)
+A political turning point. Queen Elara the Radiant (the only monarch to ever rule the city) attempted to stop the mining of Chronite, claiming it was cannibalizing history. She instituted the **Silence**, a period where no excavation was allowed. The city went dark. The upper classes revolted, assassinating her, and buried her body in the deepest, hardest concrete layer—**The Basalt Threshold**.
+*   **Current Tension:** Her era is the only "blank spot" in the city's history. The Sanitizers are currently drilling through the Basalt Threshold to access the rich Chronite veins beneath it.
 
-### Current Tension: The Drill Bit
-The **Great Bore**—a massive drill head the size of a cathedral—has punch through the crust of the Slag and is nearing the **Caelum Strata**. The Sanitizers claim it's a routine mining operation. The Chroniclers know it is an execution. If the Bore hits the Queen's crypt, her history—and the proof of the Stagnation—will be incinerated to keep the lights on in the Spire.
+### The Great Sanitation (Year 900)
+A purge of "illegal history." The ruling council, **The Censors**, declared that all memory of the pre-Scorch world was heretical. They mined the Chronite from that era and burned it to fuel the city's forges. This created the **Smog**, a permanent cloud of toxic memory-dust that hangs over the lower city.
+
+### Present Day (Year 3000)
+The city is nearing the **Mantle Limit**. The drills are going so deep they are hitting the planet's core heat. The lower levels are becoming uninhabitable due to the heat and the "Nausea" radiation leaking from the deep time veins.
 
 ---
 
-## Magic System: Temporal Excavation
+## MAGIC SYSTEM: TEMPORAL EXCAVATION
 
-### Hard Rules (The Laws of Resonance)
-1.  **The Law of Contact:** You cannot touch time without touching the physical object that anchors it. To see a murder, you must hold the knife. To visit the Queen's court, you must stand on the floorboards of her palace (which are now buried in the sediment).
-2.  **The Law of Equivalent Mass:** You can only excavate a volume of time equal to the mass of the object you are holding. A wedding ring yields a few seconds of the ceremony. A support beam yields the entire history of the room it held up.
-3.  **The Law of Anchoring:** The "digger" (the user) acts as the anchor. If the connection breaks while the user is "inside" the memory, the user's physical body is left in the present while their consciousness is stranded in the past. They enter a vegetative state, becoming "Blank."
+### Hard Rules (The Physics of Time)
+Magic in Ouroboros is not spellcasting; it is **mining**. It is the extraction of physical time from the earth.
 
-### The Cost: Nausea (The Chronal Sickness)
-*   **Symptoms:** Violent retching (black bile), rapid cellular aging or de-aging, hallucinations of one's own future death.
-*   **Mechanism:** By exposing oneself to the compressed time of Chronite, the user's biological clock desynchronizes from local time.
-    *   *Stage 1:* Vertigo and nosebleeds.
-    *   *Stage 2:* Gray hair or hair loss (rapid aging) or loss of teeth/organ failure (rapid decay).
-    *   *Stage 3:* "Fizzling." The victim turns into fine, gray sand.
-*   **Limitation:** You cannot stop the nausea. You can only manage it with "Tincture of Slate" (a thick, tar-like medicine made from ground fossils).
+1.  **The Law of Viscosity:** Time behaves like a fluid. It flows downward. "Present" time flows into the "Past" (The Pit). You cannot make time flow up.
+2.  **The Law of Resonance:** To excavate a moment, you must match the frequency of the era. A miner must use a tuning fork or sonic drill attuned to the specific year they are digging into. If the frequency is off, you dig up nothing but dirt.
+3.  **The Law of Conservation:** If you extract a memory from the rock, you create a void. The ground above settles. If you extract too much from a single pillar, the city district above collapses.
+4.  **The Manifestation:** Excavated time is physical. It looks like black oil (Chronite) or, if refined, a solid, geometric crystal. When burned, it releases the memory contained within as a hallucination visible to everyone in the room.
 
-### Soft Magic (The Chronicler's Gift)
-The protagonist, **Jory**, possesses a unique sensitivity to **Echoes**. He doesn't just see the past; he feels the texture of it. He can taste the fear in a room. He can navigate the deep strata by the "sound" the layers make. This isn't a spell; it's a mutation caused by surviving a "Fizzling" event in his childhood.
+### Costs and Limitations (The Nausea)
+*   **Chronological Displacement:** Miners absorb "echoes" of the time they dig. If you spend too long in the Year 500 strata, your internal clock desynchronizes from the Present (Year 3000).
+*   **Symptoms:**
+    *   *Phase 1:* Vertigo, nosebleeds (bleeding black ichor).
+    *   *Phase 2:* Rapid aging or de-aging. Hair turns white or falls out; skin wrinkles or smooths overnight.
+    *   *Phase 3:* **Existential Erasure.** The victim fades out of reality. They don't die; they are simply edited out of the timeline. No one remembers them. Photos of them become blank.
+*   **The Limit:** A human can safely excavate for about 4 hours a day. Veterans carry "Chronometers"—gauges that measure their personal temporal drift.
 
 ### Societal Implications
-*   **Economy:** The currency is **Lumens** (light) and **Slate** (medicine). The rich trade in "clean" time—moments of joy or beauty harvested from the poor. The poor sell their own memories to buy food. A man might sell the memory of his first kiss to pay for a month's rent.
-*   **Law:** Owning "pre-Sanitization" artifacts is a capital offense. "Hoarding History" is treason.
-*   **Death:** Bodies are not buried; they are "Sunk." They are thrown into the deep mines to become fuel for the next generation. To bury a body is to steal from the state.
-*   **Architecture:** Buildings are designed to be "disposable." No foundations are laid deeper than necessary. Everything is temporary.
+*   **Economy:** Currency is backed by "Standard Years." A loaf of bread costs 0.05 years of excavated time.
+*   **Religion:** **The Geologists.** They worship the strata. They believe the dead are not gone, just compressed. They pray to the Core.
+*   **Architecture:** Buildings are designed to be sacrificed. No permanent structures in the lower levels. Everything is modular, bolted to the ceiling so it can be lifted to the next level when the floor falls.
+*   **Death:** The poor are buried in the "Slurry Chutes." Their bodies are compressed into Chronite over centuries, becoming the fuel for the future. The rich are incinerated to prevent them from becoming fuel; it is the ultimate status symbol to leave no trace.
 
 ---
 
-## Geography: Ouroboros
+## GEOGRAPHY: THE VERTICAL CITY
 
-### The Vertical Layout
-The city is a cylinder roughly ten miles wide, descending into an infinite abyss.
+The city is a cylinder, roughly five miles in diameter, descending into the earth.
 
-**The Spire (The Present)**
-*   **Location:** The "Roof" of the city. The only part that sees the sun.
-*   **Sensory Signature:** Blinding white light, smell of ozone and expensive perfumes, the constant hum of ventilation fans. The floors are polished glass.
-*   **Inhabitants:** The Sanitizers and the Administrators.
-*   **Key Location:** The **Helix Tower**, where the Great Bore is controlled.
+### The Spire (The Present)
+*   **Location:** The "Roof" of the cavern.
+*   **Sensory Signature:** smells of ozone, polished brass, and synthetic lavender. The air is cool and thin. It is blindingly bright with electric lights fueled by deep Chronite.
+*   **Inhabitants:** The Censors and the Sanitizers.
+*   **Key Landmark:** **The Obsidian Eye.** A massive lens in the ceiling that magnifies light from the surface world (which is now a scorching desert) down into the city.
 
-**The Terraces (The Recent Past)**
-*   **Location:** Just below the Spire. Where the middle class (clerks, engineers) live.
-*   **Sensory Signature:** The sound of dripping water. Constant, grey twilight. The architecture is Brutalist concrete, stained by runoff from above.
-*   **Tension:** Constant structural collapse. "Falls" are a daily occurrence.
+### The Mid-Levels (The Market)
+*   **Location:** The middle band of the city.
+*   **Sensory Signature:** Smell of frying grease, wet wool, and sewage. Constant noise—haggling, steam pipes hissing, the rattle of the lifts.
+*   **Inhabitants:** Merchants, artisans, foremen.
+*   **Key Landmark:** **The Grand Lifts.** Massive, clattering elevators that haul Slurry up and people down. They are dangerously overcrowded.
 
-**The Slag (The Deep Past)**
-*   **Location:** The bottom of the city, where the protagonist lives.
-*   **Sensory Signature:** Heat. The air is thick with coal dust and black Chronite vapor. It smells of sulfur and burning hair. The ground is soft, composed of compressed rubble and decay.
-*   **Inhabitants:** Miners, Scavengers, Chroniclers.
-*   **Key Location:** **The Bone Pits**, a massive graveyard where the Sanitizers dump their "waste" (people who failed to obey).
+### The Slums (The Near Past)
+*   **Location:** Just above the Pit.
+*   **Sensory Signature:** Heat, humidity, and the smell of rot. The air is thick with coal dust. The lighting is dim and reddish.
+*   **Inhabitants:** Miners, scavengers, "Dusters" (people who clean the upper city's falling debris).
+*   **Key Landmark:** **The Rust Belt.** A ring of derelict machinery hanging precariously over the abyss.
 
-**The Strata (The Geological Layers)**
-Beneath the Slag are the physical layers of previous eras.
-*   **The Ash Layer:** A city that burned down 100 years ago.
-*   **The Glass Layer:** A city that melted 150 years ago.
-*   **The Caelum Strata (The Target):** A layer of white marble and preserved wood. The Queen’s location.
-
----
-
-## Factions & Politics
-
-### The Sanitizers (The Ruling Party)
-*   **Philosophy:** "The Past is Weight." To live, we must forget. They believe that retaining history causes the city to sink.
-*   **Leader:** **High Auditor Vex**. A man who wears a mask of polished silver to hide a face rotted by Chronite exposure.
-*   **Goal:** Drill through the Caelum Strata to access a pocket of "Pure Chronite" beneath it, believing it will stop the city's sink forever. (Actually, it will accelerate it).
-
-### The Chroniclers (The Resistance)
-*   **Philosophy:** "Memory is Anchor." They believe that erasing history weakens the structural integrity of reality. They dig to preserve, not to steal.
-*   **Structure:** A decentralized cell network. They communicate via "Echo-stones"—rocks implanted with recorded verbal messages.
-*   **Goal:** Retrieve the Queen's body (specifically her **Diadem**, a record of her reign) to prove the Sanitizers are lying about the Stagnation.
-
-### The Drudges (The Labor Force)
-*   **Philosophy:** Survival.
-*   **Role:** They operate the mining equipment. They are heavily unionized but constantly suppressed.
-*   **Tension:** A strike is imminent. If the Drudges stop the drill, the Chroniclers have a chance to reach the Queen. If the Drudges revolt, the Sanitizers will purge the Slag.
+### The Pit (The Deep Past)
+*   **Location:** The bottom of the cylinder.
+*   **Sensory Signature:** Absolute silence, broken only by the distant roar of drills. The smell of sulfur and old blood. It is pitch black; miners use lamps fueled by green Chronite.
+*   **Inhabitants:** The Excavators. People who are too sick with Nausea to live in the upper levels.
+*   **Key Landmark:** **The Bore.** The massive central shaft where the Sanitizer drills grind into the bedrock.
 
 ---
 
-## Bestiary / Flora / Natural World
+## FACTIONS & POLITICS
+
+### The Sanitizers (The Ruling Class)
+*   **Philosophy:** "History is a Resource." They believe the past exists solely to fuel the present. They control the drills.
+*   **Goal:** Drill through the Basalt Threshold to access the "Primary Vein" beneath the Queen's layer.
+*   **Aesthetic:** White, sterile uniforms. Gas masks. They carry sonic cannons that can liquefy organic matter.
+*   **Leader:** **High Auditor Vex.** A man whose skin has been replaced with porcelain to hide the Nausea scars.
+
+### The Excavators (The Protagonist's Class)
+*   **Philosophy:** "History is a Foundation." They mine carefully, trying to preserve artifacts and memories.
+*   **Goal:** To stop the Sanitizers from breaking the Threshold. They believe breaking the Queen's layer will cause a catastrophic temporal collapse (a "Timequake").
+*   **Structure:** Cell-based. They operate in illegal "Dig Teams."
+*   **Leader:** **Mother Otho.** An elderly woman (actually 40, but aged by Nausea) who runs an orphanage for "displaced" children.
+
+### The Silentium (A Religious Cult)
+*   **Philosophy:** "The Past is Poison." They want to stop all mining. They believe the city should stop moving vertically and start living horizontally.
+*   **Goal:** Sabotage the drills. They are terrorists who collapse tunnels to "save" the time beneath.
+*   **Aesthetic:** They sew their mouths shut with thread made of copper wire.
+
+### The Queen's Guard (Historical/Residual)
+*   **Status:** Thought to be extinct.
+*   **Twist:** Cassian discovers that some of the Queen's guard didn't die; they were fossilized in the Chronite flow. If he wakes the Queen, he wakes them—and they are still fighting a 3000-year-old war.
+
+---
+
+## BESTIARY / FLORA
 
 ### Flora
-*   **Iron-Moss:** Black, crusty fungus that grows on heat vents. It eats metal. If you touch it, it leaves a rust stain on your skin that lasts for weeks.
-*   **Clockwork Vines:** Plants that have evolved to mimic the gears of the city. They make a soft ticking sound as they unfurl. Miners believe they attract bad luck.
+*   **Iron-Moss:** Black, crusty moss that grows on machinery. It eats metal. It emits a low clicking sound.
+*   **Lamp-Vines:** Bioluminescent fungi that grow in the Pit. They are harvested for light. They only grow near veins of Chronite, feeding on the temporal radiation.
+*   **Glass-Trees:** Trees in the Spire parks. They are artificial, made of welded metal rods and blown-glass leaves. They do not photosynthesize; they absorb sound.
 
 ### Fauna
-*   **Strata-Rats:** Large, blind rodents that navigate through the solid rock by "smelling" time. They are drawn to Chronite. Miners use them to locate rich seams.
-*   **The Siphoners:** Giant, pale leeches that live in the water tables. They don't drink blood; they drink "youth." A single leech can age a man by ten years in an hour.
+*   **Rock-Rats:** Large, blind rodents that live in the walls. They have evolved to eat Chronite. Their eyes glow with a faint blue light. If a rat bites you, you experience a random memory of a dead person.
+*   **Strata-Serpents:** Apex predators of the Mid-Levels. Long, pale snakes that can flatten their bodies to slide under doors. They hunt by sensing the heat of living timelines.
+*   **The Dusters:** Not animals, but feral children who have lost their parents to the mines. They scavenge on the undersides of city floors, using hooks and grapples.
 
 ---
 
-## Cultural Details
+## CULTURAL DETAILS
 
 ### Food
-*   **Slurry:** A grey paste made from recycled organic matter and ground fungi. It tastes like wet cardboard.
-*   **Luxury:** "Real" bread from the Spire is worth a human life in the Slag.
-*   **Drink:** **Gin-and-Ash**. Cheap grain alcohol cut with charcoal. It numbs the Nausea temporarily.
+*   **Slurry:** The staple food. A gray, protein-rich paste made from recycled organic matter and ground-up fungi. It tastes like wet chalk.
+*   **Dust-Bread:** A luxury. Bread made from grain grown in the Spire under artificial UV lights. It is soft and white, unlike the hard, dark nut-loaves of the lower levels.
+*   **Memory-Wine:** Alcohol brewed from fermented Chronite. Drinking it gives you a hallucination of a happy memory that isn't yours. It is highly addictive.
 
 ### Customs
-*   **The Casting:** When a child is born, a coin from a past era is placed in their hand. If they hold onto it, they are destined to be a miner (they have a grip on the past). If they drop it, they are destined to be a Sanitizer (they reject the weight).
-*   **Funerals:** No coffins. The body is wrapped in a chain and lowered into a "Recycling Chute." The family receives a tax credit for the biomass.
+*   **The Passing:** When a miner dies of Nausea (fades away), their family holds a ceremony where they burn their clothes. The smoke is believed to guide the remaining timeline back to the earth.
+*   **Tattooing:** Miners tattoo their "Yield" on their forearms—black bars for every year of Chronite they have successfully excavated. A full sleeve means you are rich; a bare arm means you are a novice or a failure.
+*   **Silence Watch:** Twice a day, the city alarms sound, and everyone must stop moving for one minute to listen for structural shifts. It is a survival tactic, not a ritual.
 
 ### Taboos
-*   **Looking Up:** In the Slag, looking up at the Spire is considered an invitation for falling debris to kill you. It is a gesture of arrogance.
-*   **Names:** You do not speak the name of the dead. If you do, you might summon their "Echo" to inhabit your body.
+*   **Looking Up:** In the lower levels, it is considered rude to look up at the Spire. It reminds people of the dust falling on them.
+*   **Touching the Fossils:** Excavators never touch a human fossil with bare skin. It causes immediate, violent Nausea.
 
 ---
 
-## Internal Consistency Rules
+## INTERNAL CONSISTENCY RULES
 
-1.  **Physics of Descent:** The city sinks at a rate of roughly one foot per year. This is constant. The Spire must constantly build upward to stay above the "Cloud Line" (the toxic smog layer).
-2.  **Sound:** Sound travels differently in Chronite-dense air. It is slower. Conversations in the Deep have a half-second delay, making dialogue feel disjointed.
-3.  **Light:** Sunlight never touches the Slag. All light is artificial, powered by burning Chronite. The light has a harsh, blue-white quality that casts no shadows (because the light sources are omnipresent in the fog).
-4.  **The "Fizzling" Constraint:** Once a character "Fizzes" (turns to sand), they cannot be brought back. No resurrection magic. Death is final and messy.
+1.  **Gravity:** Gravity is slightly higher in the lower levels (closer to the core). People from the Spire visiting the Pit often faint or break bones due to the weight.
+2.  **Light:** Light is a commodity. The brightness of a room indicates status. Stealing light (illegally tapping into a power line) is a capital crime.
+3.  **Time Perception:** Time moves slower in the deep levels due to the gravitational density of the Chronite. A miner spending a week in the Pit might find only two days have passed in the Spire. This is called **"The Lag."**
+4.  **Sound:** Sound carries forever in the compressed air of the city. Secrets travel. The walls have ears (literally; acoustic pipes are used for surveillance).
 
----
-
-## Plot Hooks & Unresolved Mysteries (The Iceberg)
-
-1.  **The Stagnation:** Why did the city stop sinking for forty years during the Queen's reign? The Sanitizers say it's a myth. The Chroniclers say she found a way to control the geology. The truth: She didn't stop the sinking; she moved the city *sideways* through a dimensional fold, and the "Sanitizers" are actually living in the wrong timeline.
-2.  **The Black Noise:** Occasionally, the deep mines emit a frequency that makes people vomit blood. The Sanitizers claim it's tectonic stress. It is actually the sound of the city screaming.
-3.  **The Protagonist's Shadow:** Jory has no shadow. It was cut off in a mining accident. But sometimes, he sees a shadow moving independently of him. It is an Echo of his future self, trying to warn him.
+### Unexplained Mysteries (Iceberg Tips)
+*   **The Hum:** Every few nights, a low hum resonates through the city bedrock. It doesn't match any known machine frequency. The Excavators say it's the planet screaming.
+*   **The White Dust:** Sometimes, the Sanitizers dump a white powder instead of gray sludge. It smells like ozone and burns the skin. No one knows what it is.
+*   **The Ghost of the Spire:** A rumor that the High Auditor Vex is actually the same man who founded the city, kept alive by Chronite injections. He has been seen wearing a signet ring from the Year 50.
+```
