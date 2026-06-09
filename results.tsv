@@ -60,3 +60,4 @@ f2f7a9a	rev-ch10	6.8	2583	keep	Cycle 5: momentum_loss improved 6.8->6.8
 20bb239	rev-ch07	6.7	1540	keep	Cycle 5: momentum_loss improved 6.7->6.7
 8644f09	rev-ch09	7.0	1590	keep	Cycle 5: cut_candidate improved 6.7->7.0
 be5030b	rev-ch15	7.0	1172	keep	Cycle 5: momentum_loss improved 7.0->7.0
+603271e	revision-cycle-5	8.0	63211	cycle	Cycle 5: novel_score 8.0->8.0
