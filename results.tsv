@@ -49,3 +49,4 @@ bc6072f	revision-cycle-3	8.0	67975	cycle	Cycle 3: novel_score 8.0->8.0
 24ac261	rev-ch09	6.7	1765	keep	Cycle 3: momentum_loss improved 5.7->6.7
 reverted	rev-ch08	5.8	2323	discard	Cycle 3: worst_scene regressed 7.0->5.8
 42ca831	rev-ch02	7.0	3612	keep	Cycle 3: momentum_loss improved 7.0->7.0
+b077745	revision-cycle-3	7.5	66003	cycle	Cycle 3: novel_score 8.0->7.5
