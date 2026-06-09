@@ -43,3 +43,4 @@ d8ed8b5	revision-cycle-2	8.0	70974	cycle	Cycle 2: novel_score 7.0->8.0
 reverted	rev-ch10	7.0	2074	discard	Cycle 3: momentum_loss regressed 7.8->7.0
 0c1c744	rev-ch08	7.0	2352	keep	Cycle 3: momentum_loss improved 7.0->7.0
 2fdfbf4	rev-ch07	6.7	2082	keep	Cycle 3: momentum_loss improved 6.7->6.7
+cc94f95	rev-ch13	8.0	3476	keep	Cycle 3: momentum_loss improved 6.7->8.0
