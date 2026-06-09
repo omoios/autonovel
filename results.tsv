@@ -29,3 +29,4 @@ fabc6e2	ch21	7.8	3774	keep	Chapter 21 (attempt 1)
 cb475fd	ch23	7.7	2218	keep	Chapter 23 (attempt 1)
 f6e5cee	ch24	6.7	3145	keep	Chapter 24 (attempt 1)
 18a4394	ch25	8.0	2792	keep	Chapter 25 (attempt 1)
+reverted	rev-ch15	7.0	1770	discard	Cycle 2: momentum_loss regressed 8.0->7.0
