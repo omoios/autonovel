@@ -35,3 +35,4 @@ d5ee393	rev-ch10	6.8	2917	keep	Cycle 2: momentum_loss improved 6.5->6.8
 bfb8819	rev-ch07	6.7	2566	keep	Cycle 2: cut_candidate improved 6.7->6.7
 ad99bd2	rev-ch17	6.5	2946	keep	Cycle 2: thinnest_character improved 6.5->6.5
 2f29aad	revision-cycle-2	8.0	72955	cycle	Cycle 2: novel_score 7.0->8.0
+reverted	rev-ch11	6.7	1790	discard	Cycle 2: momentum_loss regressed 7.0->6.7
