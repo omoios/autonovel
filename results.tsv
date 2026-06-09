@@ -39,3 +39,4 @@ reverted	rev-ch11	6.7	1790	discard	Cycle 2: momentum_loss regressed 7.0->6.7
 76fc503	rev-ch07	6.7	2148	keep	Cycle 2: momentum_loss improved 6.7->6.7
 996d3ec	rev-ch19	7.0	2610	keep	Cycle 2: missing_scene improved 7.0->7.0
 99ffcbc	rev-ch13	6.7	3840	keep	Cycle 2: missing_scene improved 6.7->6.7
+d8ed8b5	revision-cycle-2	8.0	70974	cycle	Cycle 2: novel_score 7.0->8.0
