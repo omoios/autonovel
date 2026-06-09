@@ -55,3 +55,4 @@ ee64325	rev-ch10	6.8	2602	keep	Cycle 4: missing_scene improved 6.8->6.8
 reverted	rev-ch07	6.4	2334	discard	Cycle 4: momentum_loss regressed 6.7->6.4
 f25ecc5	rev-ch08	7.0	2231	keep	Cycle 4: momentum_loss improved 7.0->7.0
 1f845c1	revision-cycle-4	8.0	64778	cycle	Cycle 4: novel_score 7.5->8.0
+a382efa	rev-ch08	7.0	1850	keep	Cycle 5: momentum_loss improved 7.0->7.0
