@@ -38,3 +38,4 @@ ad99bd2	rev-ch17	6.5	2946	keep	Cycle 2: thinnest_character improved 6.5->6.5
 reverted	rev-ch11	6.7	1790	discard	Cycle 2: momentum_loss regressed 7.0->6.7
 76fc503	rev-ch07	6.7	2148	keep	Cycle 2: momentum_loss improved 6.7->6.7
 996d3ec	rev-ch19	7.0	2610	keep	Cycle 2: missing_scene improved 7.0->7.0
+99ffcbc	rev-ch13	6.7	3840	keep	Cycle 2: missing_scene improved 6.7->6.7
