@@ -31,3 +31,4 @@ f6e5cee	ch24	6.7	3145	keep	Chapter 24 (attempt 1)
 18a4394	ch25	8.0	2792	keep	Chapter 25 (attempt 1)
 reverted	rev-ch15	7.0	1770	discard	Cycle 2: momentum_loss regressed 8.0->7.0
 d5ee393	rev-ch10	6.8	2917	keep	Cycle 2: momentum_loss improved 6.5->6.8
+98fc431	rev-ch11	7.0	2354	keep	Cycle 2: cut_candidate improved 6.1->7.0
