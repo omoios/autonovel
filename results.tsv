@@ -51,3 +51,4 @@ reverted	rev-ch08	5.8	2323	discard	Cycle 3: worst_scene regressed 7.0->5.8
 42ca831	rev-ch02	7.0	3612	keep	Cycle 3: momentum_loss improved 7.0->7.0
 b077745	revision-cycle-3	7.5	66003	cycle	Cycle 3: novel_score 8.0->7.5
 ee64325	rev-ch10	6.8	2602	keep	Cycle 4: missing_scene improved 6.8->6.8
+7e7d25f	rev-ch13	7.0	3476	keep	Cycle 4: momentum_loss improved 7.0->7.0
