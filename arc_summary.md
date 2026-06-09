@@ -2,7 +2,7 @@
 ## Full-Arc Summary for Reader Panel
 
 This document contains chapter summaries, opening/closing passages,
-and key dialogue for all 23 chapters. Total novel: 49,981 words.
+and key dialogue for all 23 chapters. Total novel: 48,991 words.
 
 PREMISE: In Cantamura, a city where law is sung into binding through
 specific musical intervals, 14-year-old Cass Bellwright can hear when
@@ -17,11 +17,11 @@ ever answered. Every binding in Cantamura is technically void.
 ---
 
 ### Chapter 1 (3226 words)
-**Summary:** **What happens:** Cassian mines a volatile vein of Chronite that whispers to him, trades with a merchant for a burner part, and returns to his safe house where he burns the stone to reveal a vision of a fossilized Queen entombed in rock.
+**Summary:** **What happens:** Cassian mines a volatile piece of Chronite that physically pains him and whispers to him, then trades in the Mid-Levels for a burner part before returning to his safe house where he and Otho burn the stone to reveal a vision of a buried Queen. After realizing the city's drill is targeting this ancient seal, Cassian descends with Kait to the excavation site and cracks open a fissure revealing a fossilized woman who wakes up and laughs as the massive drill begins to descend.
 
-**What changes:** The revelation confirms that the city's massive drill is not merely mining ore but is actively breaking a seal to release this ancient entity, shifting the context of the excavation from labor to a looming supernatural catastrophe.
+**What changes:** Cassian discovers that the "Basalt Threshold" is real and contains a living entity from the past, shifting his understanding of the city from a machine to a living body that is being parasitically attacked by the drill.
 
-**What question is left open:** As the drill breaches the ceiling and the fossilized entity begins to wake and laugh, it is unknown whether Cassian and Kait can escape the collapsing cavern before the buried past destroys them.
+**What question is left open:** How will Cassian and Kait escape the immediate collapse of the tunnel as the massive drill bores down on their position?
 
 **Opening:** The air in the shaft tasted of wet copper and old dust. Cassian knelt on the shale, his pick hovering over the black vein. The rock here was soft,Year 400 sediment, rotten with time. He struck. The chisel rang against the Chronite, a high-pitched *zing* that vibrated in his molars. A flake of black oil peeled away, glistening like obsidian glass. It hummed. The sound was low, subsonic, a thrumming pressure against his eardrums. Cassian ignored it. He pressed his thumb against the flake. It was warm. The heat soaked into his glove, traveled up his wrist, and settled behind his left eye. A sharp, needle-point prick of pain. He flinched. "Just a scratch," he whispered. His voice was swallowed by the tunnel. It couldn't decide what year it was. Cassian tapped the casing. The needle stuttered and settled on *Now*. He had to move. Cassian wedged the chisel deeper...
 
@@ -92,7 +92,7 @@ Cassian unclipped his helmet. He wiped the sweat from his forehead. It came away
 ---
 
 ### Chapter 2 (3612 words)
-**Summary:** Cassian and Kait narrowly escape a collapsing mine shaft after Vex’s drill breaches an ancient seal, fleeing through a waste chute to the safety of Mother Otho’s hideout in the Mid-Levels. Otho reveals that the drilling threatens to release three thousand years of traumatic memories upon the city and produces a pre-scorch artifact she claims can stop the machine by waking the ancient Queen, Elara. The situation escalates when Kait becomes possessed by the entity within the Chronite sample, forcing Cassian to agree to a dangerous mission to the Spire to use the artifact and potentially find his lost brother.
+**Summary:** Cassian and Kait narrowly escape a collapsing mine shaft after Vex’s drill breaches an ancient seal, fleeing through a waste chute to the safety of Mother Otho’s hideout in the Mid-Levels. Otho reveals that the drilling threatens to release three thousand years of traumatic memories upon the city and produces a Pre-Scorch artifact she claims can stop the machine by waking the ancient Queen, Elara. Cassian discovers that Kait is psychically linked to the entity within the glowing Chronite stone, and he ultimately agrees to travel to the Spire to use the artifact, driven by a desperate hope that the Queen’s power might also resurrect his lost brother.
 
 **Opening:** The ladder rungs were slick with condensation. Cold water traced the line of Cassian’s spine, seeping through the collar of his coveralls. He climbed. Above him, Kait’s boots kicked loose scree that rattled against his helmet. *Clack. Clack.* The sound was sharp against the low, grinding thrum of the city below. The Bore. Vex’s machine was chewing through the bedrock, and the vibrations were shaking the dust loose from the world. "Hurry," Kait hissed from the dark. "The light is changing." Cassian risked a look down. The fissure they had fled was twenty feet below, a jagged tear in the grey rock. The pale, watery luminescence was still spilling out of it, turning the black shale the color of bruised skin. The heartbeat sound was gone. In its place was the shriek of twisting metal. The rock face groaned. A fissure opened in the wall beside Cassian’s head, spraying him...
 
@@ -158,16 +158,12 @@ They burst out onto a collection grate. Cassian rolled, absorbing the impact on 
 
 ---
 
-### Chapter 3 (2362 words)
-**Summary:** Cassian and Kait infiltrate the Spire to steal the *Ledger of Years*, discovering that the "Queen" is not a person but the living bedrock foundation of the city, which High Auditor Vex is attempting to kill by drilling into her. To prevent her murder, Cassian uses a Chronite sample and Kait's help to shatter the massive drill bit, but this action inadvertently frees the entity rather than simply stopping the machine. With the city groaning under the awakening of the bedrock and the text in the *Ledger* rewriting itself to signal a "breached prison," Cassian decides they must descend into the Pit to find his brother.
+### Chapter 3 (2263 words)
+**Summary:** Cassian and Kait infiltrate the Spire to steal the *Ledger of Years*, discovering that the city’s drilling operation is actually dredging a molten Chronite vein where the Queen is physically entombed as the bedrock foundation. Realizing the drill will kill her and destabilize the city, Cassian uses a sonic resonance to shatter the massive machine, inadvertently freeing the entity rather than stopping the threat. With the "Prison Breached" and the city beginning to collapse, Cassian resolves to descend into the Pit to find his brother, leaving the consequences of the Queen's awakening unresolved.
 
-**What happens:** Cassian and Kait infiltrate the Spire to steal the *Ledger of Years*, discovering that the "Queen" is the living bedrock foundation of the city, which High Auditor Vex is attempting to kill by drilling into her.
+**Opening:** The air in the Mid-Levels tasted like burnt sugar and wet wool. Cassian kept his head down, navigating the crowded gantry by the rhythm of the boots in front of him. The press of bodies was suffocating—a wall of heat and odor rising from the Slums below. Every step up the metal grate stairs sent a jolt through his left knee. His biological clock was drifting out of sync with the city’s regulated time, and the world felt jagged, like a badly tuned transmission. Kait skipped ahead, weaving through the laborers like a rat in a drainpipe. "Keep your eyes on the ground," Cassian muttered, pulling his collar up. "Stop worrying, Old Man," Kait shouted over the din of the Grand Lifts. "They’re looking for a smuggler, not a graveyard digger and a gutter rat." "The Censors look for everyone," Cassian said. Cassian flattened himself against a condenser pipe. It...
 
-**What changes:** Cassian uses a Chron
-
-**Opening:** The air in the Mid-Levels tasted like burnt sugar and wet wool. Cassian kept his head down, navigating the crowded gantry by the rhythm of the boots in front of him. The press of bodies was suffocating—a wall of heat and odor rising from the Slums below. Every step up the metal grate stairs sent a jolt through his left knee. His biological clock was drifting out of sync with the city’s regulated time, and the world felt jagged, like a badly tuned transmission. Kait skipped ahead, weaving through the laborers like a rat in a drainpipe. "Keep your eyes on the ground," Cassian muttered, pulling his collar up. The Chronite sample in his pocket burned against his thigh, a dull, rhythmic heat. It was waking up. "Stop worrying, Old Man," Kait shouted over the din of the Grand Lifts. "They’re looking for a smuggler, not a graveyard digger and...
-
-**Closing:** ...sound of gears or pistons. It was the sound of a mountain shifting. "The Queen," Cassian said. He scrambled to his feet. He grabbed the *Ledger of Years*. The pages were fluttering, even though there was no wind. The text was changing. The ink was moving. The redacted entry was rewriting itself. *YEAR 50. THE INTERREGNUM. THE PRISON IS BREACHED.* "We didn't stop her," Cassian whispered. "We freed her." The ground shook again. This time, it wasn't a tremor. It was an impact. Something huge had hit the bottom of the shaft. Cassian grabbed Kait. "We have to go. Now." "Where?" Kait asked. "Down," Cassian said. He looked at the dark hole. "To the Pit." "You're crazy," Kait said. "That's where the monster is." "That's where my brother is," Cassian said. He didn't wait for an answer. He found the service ladder and started to climb down into the dark.
+**Closing:** ...drill shaft was gone. The hole was dark. But the silence wasn't peaceful. It was heavy. The city groaned. A sound Cassian had never heard before. It wasn't the sound of gears or pistons. It was the sound of a mountain shifting. "The Queen," Cassian said. He scrambled to his feet. He grabbed the *Ledger of Years*. The text was changing. The ink was moving. The redacted entry was rewriting itself. *YEAR 50. THE INTERREGNUM. THE PRISON IS BREACHED.* "We didn't stop her," Cassian whispered. "We freed her." The ground shook again. Cassian grabbed Kait. "We have to go. Now." "Where?" Kait asked. "Down," Cassian said. He looked at the dark hole. "To the Pit." "You're crazy," Kait said. "That's where the monster is." "That's where my brother is," Cassian said. He didn't wait for an answer. He found the service ladder and started to climb down into the dark.
 
 **Key dialogue:**
 > " Cassian said.
@@ -214,7 +210,7 @@ Cassian fell to his knees, gasping. Blood dripped from his nose. Black ichor.
 ---
 
 ### Chapter 4 (3689 words)
-**Summary:** Cassian and Kait descend into the ancient depths of the city, where Cassian uses a resonant frequency to crack the basalt seal and awaken the petrified Queen, Elara. Upon her revival, Elara reveals that breaking the seal has disturbed a massive entity buried beneath the city, and she leads the group on a chaotic assault against the Sanitation Directorate that leaves the Spire crippled. The chapter concludes with Elara declaring that Cassian’s lost brother is trapped within the Chronite vein below, forcing Cassian to choose between saving the city or digging to recover the past.
+**Summary:** Cassian and Kait descend into the ancient depths of the city, where Cassian uses a pickaxe and Kait’s harmonizing voice to crack the basalt seal of Year 50, awakening the petrified Queen Elara from a three-thousand-year stasis. Upon her revival, Elara reveals that breaking the seal has disturbed a massive entity buried beneath the city, and she leads the group on a chaotic ascent through the infrastructure, culminating in a confrontation with High Auditor Vex that leaves the Spire crippled and the city destabilized. The chapter ends with the ground cracking open to release a rhythmic thumping from the depths, and Elara declaring that Cassian’s lost brother, Joren, is trapped within the Chronite vein below, forcing a choice between saving the city or excavating the past.
 
 **Opening:** The rungs of the service ladder were cold enough to burn skin. Cassian’s gloves were shredded, his palms sticky with half-dried blood, but he didn’t stop. He descended into the throat of the shaft. Kait followed above him, her boots clanking rhythmically against the metal. She didn't complain. The shockwave had knocked the wind out of both of them, leaving a ringing silence that felt heavier than the dark. "Slow down," Kait hissed. Her voice was a raw scrape. Cassian didn't answer. He pushed off the wall with his feet, sliding down the ladder rails, skipping three rungs at a time. The friction heated the soles of his boots. The smell hit him first. It wasn't the familiar coal-dust or the oily reek of machinery. It was old air. Air that had been sealed in a vacuum for three thousand years. It tasted like dry-rot and ancient spices. "Cassian," Kait...
 
@@ -290,8 +286,8 @@ A crack appeared. It ran from the impact point, zigzagging up the wall like a li
 
 ---
 
-### Chapter 5 (2430 words)
-**Summary:** Cassian, Kait, and Elara descend into a fleshy cavern beneath the city, where Elara reveals she buried herself to serve as the city's fuel source, only to be interrupted by High Auditor Vex who attempts to drain the chamber. During the confrontation, a silver echo of the King merges with Cassian, granting him the resonance ability to reverse the flow of Chronite and destroy Vex. The group escapes back to the Mid-Levels, but Cassian is left permanently altered by the King's presence, which Elara warns will eventually overwrite him.
+### Chapter 5 (2358 words)
+**Summary:** Cassian, Kait, and Elara descend into the city's depths to find the "King," where Cassian absorbs a silver echo of his brother Joren and unlocks a passage to a fleshy cavern revealed to be Elara's prison and fuel source. High Auditor Vex breaches the chamber to drain the Chronite blood, but Cassian uses his new resonance to reverse the flow, destroying Vex's mask and forcing the group to flee back to the Mid-Levels. The chapter ends with the group escaping but Cassian left carrying the silver echo in his arm, which Elara warns will eventually overwrite him.
 
 **Opening:** The fissure in the floor was wide enough to swallow a leg, but the steam hissing out of it was thin, smelling of sulfur and wet iron. Cassian stood over the crack, his boots slipping on the damp metal grating. The pickaxe in his hand felt light, too light, like holding a bird bone instead of steel. He looked at the steam. The Nausea spiked—a needle driving into the left temple, sharp and hot. He squeezed his eyes shut. "Don't stare," Kait said. She was already moving, dragging a heavy canvas bag from the pile of gear near the tunnel wall. "It’s rude to stare at the abyss. Gets you pushed." Cassian opened his eyes. The vision of the silhouette—Joren—was gone. Only the black steam remained. "Get the shovel," he said. Kait hefted the bag. "We’re going in? After the ghost-thing?" "After the King," Elara said. She stood at the...
 
@@ -382,7 +378,7 @@ Below him, the great drills of the Sanitizers were silent. The workers were look
 ---
 
 ### Chapter 6 (3271 words)
-**Summary:** Cassian and his companions escape the Mid-Levels, evading Censors and a Chronite-infected serpent, before reaching the safety of Mother Otho’s orphanage to report their failure to secure the Queen. Cassian reveals that the silver ink in his arm is a map linked to the "Key"—a counter-frequency device needed to save the city—which is located in the Spire and currently sought by the voice in his head. Despite the physical toll and Elara's protests, Cassian decides to infiltrate the Spire alone that night to prevent the city's collapse.
+**Summary:** Cassian, Elara, and Kait escape the Mid-Levels and evade Censors to reach the safety of Mother Otho’s orphanage, where Cassian reveals that the silver ink in his arm is reacting to a supernatural entity known as the King. The group realizes that to stop the city's collapse, they must locate a "Key" hidden within the heavily guarded Spire, a mission Cassian insists on undertaking alone to avoid alerting the entity inside him. The chapter ends with Cassian stepping out into the night to infiltrate the Spire, leaving his survival and the success of the infiltration uncertain.
 
 **Opening:** The air in the Mid-Levels tasted of wet iron and recycled breath. Cassian walked with his head down, the collar of his coat turned up against the falling dust. The gray snow coated his shoulders, dusted his hair. It settled in the creases of his neck, cold and gritty. Behind him, the gap in the wall smoked. The Sanitizers were sealed inside the vent, trapped with the burning Chronite, but the shouting had stopped. Now there was only the crackle of fire and the high, thin whine of cooling metal. He kept his hands in his pockets. His left hand wrapped around the silver ink on his forearm. It was hot. It felt less like ink and more like a second circulation system, a network of hot wires laid under his skin. Kait walked ahead, skipping over a puddle of oily wastewater. She turned, her goggles reflecting the red warning...
 
@@ -472,19 +468,19 @@ He climbed. The cable was greasy, digging into his palms. Above him, he could he
 
 ---
 
-### Chapter 7 (1689 words)
-**Summary:** Cassian infiltrates the high-level Sanitation District, bypasses security using a temporal disguise, and breaks into the Vault of Resonance to steal the Key before escaping through a window while under fire. The theft triggers a confrontation with High Auditor Vex, who reveals that the city intends to use the Key to destroy the past for fuel, and results in Cassian securing the object but suffering a severe shoulder wound. It remains unanswered whether Elara’s signal in the Rust Belt marks a safe rendezvous or a trap, and if Cassian can survive the escalating physical and temporal corruption caused by the Key.
+### Chapter 7 (1628 words)
+**Summary:** Cassian infiltrates the high-level Sanitation District, bypasses security measures using a temporal artifact, and steals the Key from the Vault of Resonance after a confrontation with High Auditor Vex. He escapes the Vault by shattering a window and rappelling down the Spire, successfully evading the pursuing soldiers to reach the signal light of his ally, Elara, in the lower depths. The narrative leaves open the question of how the team will utilize the Key to stop the drilling of the Basalt Threshold while surviving the combined threat of the city's forces and Cassian's advancing Chronite poisoning.
 
 **Opening:** The air in the maintenance shaft tasted of ozone and wet iron. Cassian crouched behind the rusted housing of the ventilation unit, his chest heaving. Every breath dragged a jagged piece of air down his throat. He looked at his shoulder. The fabric of his coat was burnt away. The skin underneath was black. Not charred, but *voided*. A circle of flesh had been erased by the temporal round, leaving a crater in the muscle. Black ichor wept from the wound, thick and viscous like crude oil. It mixed with the red blood running down his arm, dripping onto the grating. *Plink. Plink.* The sound was lost in the groan of the city. The pain was a white spike driven through his vision. He grunted, the sound muffled by the canvas in his teeth. He tied it off. Sweat stung his eyes. *Thump. Thump.* He needed to move. The searchlights...
 
-**Closing:** ...knew it would return. It always returned. He reached the catwalk of the Rust Belt. He dropped onto the metal, rolling to absorb the impact. He crawled into the shadows of an old ventilation unit. He sat up, pressing his back against the cold metal. He looked at the Key. Up close, it was terrifying. The metal seemed to shift, to flow like liquid smoke. It whispered. Not words, but *intent*. *Open me,* it seemed to say. *Break the stone.* He wrapped it in his coat, hiding the light. "Got you," he whispered. He pushed himself to his feet. He couldn't stop. If he stopped, the cold would catch him. The darkness would take him. He moved toward the signal light. Toward Elara. The city groaned around him, a massive beast disturbed from its sleep. He had the Key. Now he just had to survive long enough to use it.
+**Closing:** ...hand, gritting his teeth against the pain. He reached the catwalk of the Rust Belt. He dropped onto the metal, rolling to absorb the impact. He crawled into the shadows of an old ventilation unit. He sat up, pressing his back against the cold metal. He looked at the Key. Up close, it was terrifying. The metal seemed to shift, to flow like liquid smoke. It whispered. Not words, but *intent*. *Open me,* it seemed to say. *Break the stone.* He wrapped it in his coat, hiding the light. "Got you," he whispered. He pushed himself to his feet. He couldn't stop. If he stopped, the cold would catch him. The darkness would take him. He moved toward the signal light. Toward Elara. The city groaned around him, a massive beast disturbed from its sleep. He had the Key. Now he just had to survive long enough to use it.
 
 **Key dialogue:**
 > " he muttered.
 
 The Nausea hit him then. A needle. A sharp, precise injection of pain behind his left eye. He gasped, gripping the rusted railing. His vision frayed at the edges.
 
- He pressed his thumb against the metal of the railing. A ground. The vibration in his skull dampened. It stabilized.
+ 
 
  The wind whipped at his coat. Below his boots, the Smog swirled.
 
@@ -517,8 +513,6 @@ Once it was gone, he moved again. Faster.
 The tunnel opened up onto the underside of the Grand Lift platform. The massive gears of the lift mechanism loomed above him, teeth the size of a man, grinding against the stone. Oil dripped from the axles, pooling on the walkway.
 
 He found the maintenance ladder. It was slick with oil. He climbed.
-
-The Spire manipulated gravity to keep the rich light-footed, crushing the poor beneath them. It was a literal weight of class.
 
 His muscles burned. His lungs felt like they were filling with fluid. Every rung was a battle.
 
@@ -632,7 +626,7 @@ Elara.
 
 He had to go deeper.
 
-He climbed down the rope, hand over hand, gritting his teeth against the pain. The Nausea was gone, replaced by the adrenaline of the escape. But he knew it would return. It always returned.
+He climbed down the rope, hand over hand, gritting his teeth against the pain. 
 
 He reached the catwalk of the Rust Belt. He dropped onto the metal, rolling to absorb the impact.
 
@@ -665,10 +659,10 @@ Vex screamed. It wasn't a scream of pain, but of outrage. "
 
 ---
 
-### Chapter 8 (2233 words)
-**Summary:** Cassian reunites with Elara and Kait at the Smelter stacks, and to escape the encroaching "Sanitizers," they execute a dangerous plan to ride a cargo container down a ventilation shaft into the city's depths. The group survives the catastrophic impact at the bottom, landing in the "Ossuary" where they discover the throne of the First King and a fissure leading to the Threshold. Upon opening the fissure, a purple entity emerges and attacks Cassian, turning his body to sediment just as Vex initiates massive drilling operations from the surface.
+### Chapter 8 (2231 words)
+**Summary:** Cassian, Elara, and Kait escape a Sweeper team by severing a crane cable and riding a cargo container down a ventilation shaft, crashing into a deep subterranean chamber known as the Ossuary. Upon discovering the throne of the First King and attempting to breach the floor to reach the Threshold, they awaken a purple entity that identifies itself as the past, which proceeds to drain Cassian’s life force and turn him into sediment. As Cassian’s consciousness fades and his brother Joren urges him to dig, Vex monitors the spike in energy from above and activates massive drills that begin to tear the city apart.
 
-**Opening:** Cassian crouched behind the rusted housing of the ventilation unit. The air here tasted of sulfur and wet iron. He pressed his back against the cold metal, his chest heaving. Every breath dragged a jagged piece of air down his throat. He looked at his shoulder. The fabric of his coat was burnt away. The skin underneath was black. Not charred, but *voided*. Black ichor wept from the wound, thick and viscous like crude oil. He pulled a strip of canvas from his belt—scavenged sailcloth—and bit down on the end. He wrapped it around the shoulder, over the burn. He pulled it tight. The pain was a white spike driven through his vision. He grunted, the sound muffled by the canvas in his teeth. He tied it off. Sweat stung his eyes. The bundle in his hand felt heavy. The Key. It felt like holding a compressed star. *Thump. Thump.*...
+**Opening:** Cassian crouched behind the rusted housing of the ventilation unit. The air tasted of sulfur and wet iron. He pressed his back against the cold metal, chest heaving. Every breath dragged a jagged piece of air down his throat. He looked at his shoulder. The fabric of his coat was burnt away. The skin underneath was black. Not charred, but voided. Black ichor wept from the wound, thick and viscous like crude oil. He pulled a strip of canvas from his belt—scavenged sailcloth—and bit down on the end. He wrapped it around the shoulder, over the burn. He pulled it tight. The pain was a white spike driven through his vision. He grunted, the sound muffled by the canvas in his teeth. He tied it off. Sweat stung his eyes. The bundle in his hand felt heavy. The Key. It felt like holding a compressed star. *Thump. Thump.* He needed...
 
 **Closing:** ...didn't feel pain. He felt *cold*. A freezing so deep it stopped his heart. He looked at Kait. The girl was holding the pry-bar, her eyes wide with horror. Cassian tried to speak. He tried to say *Run*. But the grayness reached his throat. He coughed. A cloud of gray dust puffed out. He was becoming sediment. He was becoming history. The last thing he saw was the Key in his hand. It wasn't glowing anymore. It was dead. A piece of cold stone. Then, the darkness took him. And in the darkness, a hand reached out. It was Joren. *Dig, brother,* Joren said. *Dig deep.* Cassian’s fingers twitched. He was buried. But he was not gone. The earth shifted. Somewhere far above, Vex watched a gauge spike. "We have contact," Vex whispered. He pressed a button on his console. The drills began to turn. The city began to scream.
 
@@ -699,9 +693,7 @@ He gripped the railing until his knuckles turned white.
 
 He moved.
 
-He stayed in the shadows of the gantry. 
-
-He navigated the maze of suspended walkways. The rats scurried in the dark, their eyes glowing with a faint, sickly blue light. They chittered, teeth clicking on the metal.
+He stayed in the shadows of the gantry. He navigated the maze of suspended walkways. The rats scurried in the dark, their eyes glowing with a faint, sickly blue light. They chittered, teeth clicking on the metal.
 
 Cassian kept his hand over the Key. The resonance coming off it was getting stronger. It was reacting to the depth. They were getting closer to the Basalt Threshold.
 
@@ -741,7 +733,7 @@ He sat up. The dark was total. He couldn't see his hand in front of his face.
 ---
 
 ### Chapter 9 (1703 words)
-**Summary:** Cassian and Kait escape a collapsing tunnel, hauling the revived Queen Elara past a mechanical Observer and through a panicked city to the safety of a market level alley. Elara awakens with solid black eyes and a voice that resonates through the environment, revealing she views the city as a parasite and demands to be taken to the Architect. The chapter ends with Cassian warning her that the Architect does not exist and the High Auditor intends to burn her, leaving her response to this threat unresolved.
+**Summary:** Cassian and Kait escape a collapsing tunnel, hauling the revived Queen Elara past a mechanical Observer and through a panicked city to the safety of a market level alley. Elara awakens with solid black eyes and a voice that resonates through the environment, revealing she views the city as a parasite and demands to be taken to the Architect. The chapter ends with Cassian warning her that the Architect does not exist and the High Auditor intends to burn her, a threat Elara meets with a terrifying smile.
 
 **Opening:** The dark was not empty. It was heavy. It pressed against his eyelids like the weight of a mile of basalt. *Dig.* The command vibrated in the marrow of his frozen arm. *Dig.* The needle drove into his left eye. A sharp, hot wire of pain. Cassian forced his fingers to twitch. Nothing. He was fused. The gray sediment had calcified around him, locking him into the geology. He was a brick in the wall of the tunnel, a fossil of his own making. *Dig.* Something struck the stone casing over his shoulder. A muffled clang. "Harder!" Kait’s voice. Muffled. As if she were shouting from the bottom of a well. *Clang.* The stone shell cracked. A fissure of light—purple, bruised light—bled through the darkness. Cassian gasped. The air rushed in. The sediment on his chest fractured. He heaved, and the gray shell fell away like dry mud, shattering on...
 
@@ -789,10 +781,10 @@ Cassian gasped. The air rushed in. The sediment on his chest fractured. He heave
 
 ---
 
-### Chapter 10 (2602 words)
-**Summary:** Cassian leads Elara through the chaotic market and across a perilous bridge to the Rust Belt, using a sonic detonator from Mother Otho to evade Vex’s pursuing white-uniformed forces. They descend into the city’s waste tunnels, where Elara reveals that Vex’s drilling threatens to awaken a slumbering entity, and Cassian collapses from exhaustion before being rescued and healed by Mother Otho. After recovering and receiving supplies from Otho, Cassian and Elara leave the safety of the hideout to infiltrate the Spire, while Elara insists that the "ghosts" Cassian sees are warnings from the future that the entity is already awake.
+### Chapter 10 (2574 words)
+**Summary:** Cassian leads Elara through the chaotic market and across a treacherous bridge to the Rust Belt, narrowly escaping a sonic attack from white-uniformed pursuers by hiding underneath the structure. They traverse a waste chute to reach the sanctuary of Mother Otho, where Cassian collapses from exhaustion but recovers to learn that Elara believes Vex’s drilling will awaken a slumbering, world-threatening entity. Armed with a sonic detonator and a warning from Elara that the city is haunted by the future, the pair leaves the safety of the sanctuary to infiltrate the Spire and destroy the drill before time runs out.
 
-**Opening:** The glass in the street crunched under Cassian’s boots. It was not the sharp, clean shard of a fresh break, but the ground-down powder of a thousand trampled failures. "Move," he said, shoving Elara into the shadow of a rusted support pillar. She stumbled. Her bare feet caught on the uneven iron grating. She looked less like a monarch and more like a drowned rat pulled from the sump. Her hair hung in heavy ropes, stiff with compressed time. Vex would have triangulated the source by now. The market was a chaotic press of bodies and steam. Vendors hawked slurry-cakes from iron carts. Dusters in rags picked through piles of refuse that fell from the upper chutes. No one looked at them. Down here, eyes were a liability. Cassian gripped Elara’s arm. Her skin was fever-hot. "Where are we going?" she asked. She stared at a neon sign flickering above...
+**Opening:** The glass in the street crunched under Cassian’s boots. It was not the sharp, clean shard of a fresh break, but the ground-down powder of a thousand trampled failures. "Move," he said, shoving Elara into the shadow of a rusted support pillar. She stumbled. Her bare feet caught on the uneven iron grating. She looked less like a monarch and more like a drowned rat pulled from the sump. Her hair hung in heavy ropes, stiff with compressed time. The market was a chaotic press of bodies and steam. Vendors hawked slurry-cakes from iron carts. Dusters in rags picked through piles of refuse that fell from the upper chutes. No one looked at them. Down here, eyes were a liability. Cassian gripped Elara’s arm. Her skin was fever-hot. "Where are we going?" she asked. She stared at a neon sign flickering above a bodega. *FRESH WATER - 0.02 YEARS.* "The...
 
 **Closing:** ...Queen, Cassian." Cassian looked away. He looked at the dark mouth of the tunnel ahead. "I see shapes," he admitted. His voice was rough. "In the Smog. Sometimes when I dig too deep." "What do they look like?" "Faces," he said. "Hundreds of them. Tiny. Compressed." Elara reached out. She took his hand. Her grip was like iron. "Then we are already too late," she said. "The bear is awake." Cassian pulled his hand away. He adjusted the collar of the coat. "We aren't dead yet," he said. He started walking. Elara stood there for a moment. Then she followed. The tunnel sloped upward. The air grew thinner. The smell of sulfur faded, replaced by the sharp, metallic tang of ozone. They were climbing out of the deep levels. Heading for the Spire. The Smog swirled around Cassian’s legs. He looked down. He blinked. It was gone. He kept walking.
 
@@ -823,8 +815,6 @@ They reached the intersection of the corridors. A junction box on the wall spark
 
 She stumbled. Her bare feet caught on the uneven iron grating. She looked less like a monarch and more like a drowned rat pulled from the sump. Her hair hung in heavy ropes, stiff with compressed time.
 
-Vex would have triangulated the source by now.
-
 The market was a chaotic press of bodies and steam. Vendors hawked slurry-cakes from iron carts. Dusters in rags picked through piles of refuse that fell from the upper chutes. No one looked at them. Down here, eyes were a liability.
 
 Cassian gripped Elara’s arm. Her skin was fever-hot.
@@ -848,17 +838,15 @@ Inside the pipe, the sound was different. A wet, sucking sound. They walked on t
 
 ---
 
-### Chapter 11 (2071 words)
-**Summary:** Cassian and Elara confront Vex in the Spire's dining hall, threatening to destroy the structure before a mysterious "White Dust" and seismic tremors disrupt the gathering, forcing them to flee to the Control Deck. There, Elara reverses the drill's resonance to stop Vex's destructive excavation, revealing him as a hollow construct and exposing a fissure in the cavern roof that reveals the surface world. With the immediate threat neutralized but the city destabilized by the leaking future, Elara and Cassian decide to abandon the underground city and climb toward the lethal surface world known as the Scorch.
+### Chapter 11 (1791 words)
+**Summary:** Cassian and Elara confront Vex in the Spire's dining hall, where Elara declares her lineage and Cassian threatens to destroy the building, but the standoff is interrupted by a catastrophic tremor from the deep drilling operations. They flee to the Control Deck, where Elara reverses the drill's polarity, killing the revealed-to-be-hollow Vex and halting the machine, though the action leaves a metaphysical wound that allows the "future" to leak into their reality. With the city destabilized and the surface world revealed, Elara and Cassian decide to abandon the underground city and climb toward the lethal Scorch to close the breach.
 
-**Opening:** The maintenance shaft was a throat of greased steel. It smelled of ozone and sulfur. Cassian hauled himself up, hooking his elbows over the lip of the hatch, and rolled onto the floor of the Spire. The air here was different. Thin. Sterile. It smelled of synthetic lavender and cold air. He lay there for a second, his heart hammering against the marble like a trapped bird. Elara dropped beside him. She looked at her hands. She rubbed her fingers together, spreading the grease. "Polish," she said. "We are in the polishing room." Cassian pushed himself up. His joints popped. The Nausea receded in the clean air, replaced by a dull, throbbing pressure behind his eyes. No rust. No soot. "It's the Gallery," Cassian said. "The service entrance." He moved to the door. He pressed his eye against the hinge-gap. He saw the table. Long, dark wood, reflecting the ceiling....
+**Opening:** The maintenance shaft was a throat of greased steel. It smelled of ozone and sulfur. Cassian hauled himself up, hooking his elbows over the lip of the hatch, and rolled onto the floor of the Spire. His boots left streaks of gray sludge on the white marble. He lay there, lungs burning. The air up here was thin. Sterile. It tasted of synthetic lavender and cold recycled breath. "Polish," she said. "We're in the Gallery." Cassian pushed himself up. His joints popped. The Nausea receded in the filtered air, replaced by a dull, throbbing pressure behind his eyes. The city was far below. He moved to the door. He pressed his eye against the hinge-gap. A long table of dark wood reflected the ceiling lights. Silver service. Crystal goblets filled with amber liquid. The diners were men and women in white uniforms, stiff and formal. They wore porcelain masks—half-faces of...
 
-**Closing:** ...until the floor falls. Or we can climb out." "Out?" Cassian asked. "To the surface?" "To the Scorch," she said. "To the world that killed us. It is the only way to close the door. We have to face the sun." Cassian looked at the blue light. It hurt his eyes. He thought of Joren. He thought of the dark. He thought of the silence of the deep tunnels. He thought of the endless digging. "I'm tired of the dark," Cassian said. He adjusted the collar of his coat. He checked his watch. The hands were still. "Then we climb," Elara said. She walked toward the service door. Cassian watched her go. The city groaned. A long, settling sigh. He followed her into the hall. The lights flickered once, then died. The darkness rushed in, but for the first time, Cassian didn't mind. He knew the way out was up.
+**Closing:** ...glass. She looked at Cassian. "We have a choice," she said. "We can stay here and polish the rot until the floor falls. Or we can climb out." "Out?" Cassian asked. "To the surface?" "To the Scorch," she said. "To the world that killed us. It is the only way to close the door. We have to face the sun." Cassian looked at the blue light. It hurt his eyes. He thought of Joren. He thought of the dark. He thought of the silence of the deep tunnels. He thought of the endless digging. "I'm tired of the dark," Cassian said. He adjusted the collar of his coat. He checked his watch. The hands were still. "Then we climb," Elara said. She walked toward the service door. Cassian watched her go. The city groaned. A long, settling sigh. He followed her into the hall. The lights flickered once, then died.
 
 **Key dialogue:**
 > " Elara said.
-
-She raised her hand. She didn't touch the panel. She just pointed her palm at the lock.
 
 The metal groaned.
 
@@ -883,10 +871,6 @@ He turned his head. The porcelain mask was cracked. A spiderweb fracture ran dow
 She hit the final key. A large, red switch marked *PURGE.*
 
 She pulled it.
-
-The room filled with a low hum.
-
-The glass walls vibrated.
 
 On the screen, the red line of the drill didn't stop. It split. It branched out, sending tendrils of green energy into the surrounding rock.
 
@@ -916,7 +900,7 @@ The roar was muted here, but the vibration was worse. The walls were sweating. C
 ---
 
 ### Chapter 12 (2440 words)
-**Summary:** Cassian and Elara escape the collapsing Gallery, forcing their way to the roof where Vex severs the Spire's supports to send the city plummeting into the deep. Vex destroys the Obsidian Eye's magnetic housing, causing the massive lens to fall, but Cassian uses a sonic cannon to suspend the stone while Elara rusts and ages a winch mechanism to secure it. The city begins its slow descent into the earth, and the pair decides to descend into the Foundation to confront Vex and wake the Sleeper before the city crashes into the Mantle.
+**Summary:** Cassian and Elara escape the collapsing Gallery, forcing their way to the roof where they confront Vex, who severs the Spire's supports to sink the city into the earth. After Vex flees, Cassian uses a sonic cannon to suspend the falling Obsidian Eye while Elara uses her powers to secure it, though the exertion causes Cassian’s timeline to destabilize. With the city slowly sinking and the surface sealed, Cassian resolves to descend to the Foundation to wake the Sleeper before Vex can crash the city into the Mantle.
 
 **Opening:** Dust billowed, choking and white, rolling over the polished surface of the Gallery like a dry fog. Cassian didn't wait for Vex to finish his order. He yanked Elara’s arm. "The door," Cassian said. He pointed to the service arch behind the dais. Vex was shouting, his voice tinny and distorted through the synthesizer in his throat. "Seal it! Don't let them reach the lift!" They looked like ghosts fighting in a cloud of milk. "Go," Elara said. Her voice cracked. A sound like a glacier calving. "The resonance is wrong here. The pitch is... it hurts." Cassian shoved her toward the archway. He glanced at the table. Vex was gone. The High Auditor had backed away into the shadows of the pillars, his white uniform disappearing into the gloom. The guards were fumbling with the breach-seals on the main doors, their movements jerky with panic. Cassian ran. The service...
 
@@ -974,8 +958,12 @@ He kept a hand on Elara’s shoulder. "
 
 ---
 
-### Chapter 13 (3476 words)
-**Summary:** After surviving the collapse of the Mid-Levels, Cassian and Elara ascend the elevator shaft, where they discover a "loop" of Elara's assassination preserved in the black glass of the Threshold. They reach the top to confront Vex, who attempts to kill them for fuel, but Elara seizes the drill controls to redirect the machine, boring a sideways escape tunnel and trapping Vex in the process. The city stabilizes as the resonance fades, and Cassian, fully returned to the present reality, joins Elara to begin the climb back to the surface to tell the others that the sun is real.
+### Chapter 13 (3380 words)
+**Summary:** Cassian and Elara escape the collapsed mine shaft and climb the rusted elevator cables, only to find the path blocked by a hostile time-loop of Elara's assassination at the Threshold. They ascend past the blockade to the Spire's drill head, where Cassian uses the last sonic charge to clear a path and Elara traps the villainous Vex inside the active airlock. Elara redirects the massive drill to tear a hole into the Mid-Levels, allowing them to escape the collapsing bore while Vex falls to his death in the deep earth.
+
+The city’s descent is halted, stabilizing the Spire, and the oppressive time-resonance that plagued Cassian vanishes, leaving him fully anchored in the present. Vex is eliminated, and the immediate threat of the city crashing into the Mantle is resolved.
+
+With the machine destroyed and the city settling, it remains unknown how the survivors will rebuild society or what new political structure will arise in the absence of the High
 
 **Opening:** The tunnel smelled of raw clay and crushed stone. Cassian lay on his back, staring up at the jagged hole where the Bore had been. Silence. It pressed against his ears, a physical weight after the hours of screaming drills. "You are bleeding," Elara said. She looked like a statue dragged through a gutter. Her white gown was gray, the lace torn by shrapnel. "Ichor?" he asked. His voice was a rasp. "Blood," Elara said. She pointed a trembling finger at his shoulder. Cassian looked down. A shard of black basalt was embedded in his triceps. Dark red welled around it, thick and sluggish. "Good," he said. "Red is good. Red means I'm still here." He gripped the shard. He pulled. Pain flared, white-hot and immediate. He hissed through his teeth. The rock clattered onto the floor. Blood smeared his forearm, mixing with the gray dust. Elara stood. She towered...
 
@@ -1022,8 +1010,6 @@ He collapsed on a landing. The service door to the Slums was buckled, twisted ou
 
 He leaned against the wall, gasping. He checked his chronometer.
 
-The glass was cracked. The needle was spinning wildly, counterclockwise.
-
 "
 
 > " Cassian screamed.
@@ -1042,10 +1028,6 @@ Silence returned.
 
 Cassian lay on his back. He was covered in gray mud. He was exhausted. His body was heavy. So heavy.
 
-He looked at his hand.
-
-The needle on his chronometer had stopped.
-
 He held it up to the light of Elara's eyes.
 
 "
@@ -1053,10 +1035,10 @@ He held it up to the light of Elara's eyes.
 
 ---
 
-### Chapter 14 (2489 words)
-**Summary:** Cassian and Elara escape the collapsed mine shaft, climbing through the city's abandoned layers to the Spire, where Elara reveals herself as an ancient construct and sacrifices her physical form to become a real tree in the sunlight. The city's artificial environment is permanently altered by the introduction of genuine sunlight and organic life, proving that the toxic surface world has changed. It remains unknown how the city's ruling Censors and the populace will react to the appearance of this supernatural tree and the return of the sun.
+### Chapter 14 (2343 words)
+**Summary:** After escaping the collapsed Bore, Cassian and Elara climb through the city's layers, where Elara reveals she is the ancient Queen and forces Cassian to drink Chronite slurry to experience a memory of the sun. They ascend to the Spire, bypassing security with Elara's biometric signature, and force open the Obsidian Eye to expose the city to raw sunlight for the first time in millennia. The light reveals Elara as a mechanical construct who dissolves into a planter to become a real tree, bearing fruit that Cassian eats as the city watches on.
 
-**Opening:** The tunnel smelled of raw clay and crushed stone. He lay on his back, staring up at the jagged hole where the Bore had been. Silence. It pressed against his ears, a physical weight after the hours of screaming drills. "You are bleeding," Elara said. She looked like a statue dragged through a gutter. "Ichor?" he asked. "Blood," Elara said. She pointed at his shoulder. Cassian looked down. A shard of black basalt was embedded in his triceps. "Good," he said. "Red is good." She didn't look at him; she looked at the tunnel wall, pressing a hand against the fresh earth. "The resonance is gone," she said. "The machine is dead. The city has stopped its descent." Cassian got to his feet. "We collapsed the shaft," Cassian said. "Vex is trapped." "He has the fuel," Elara said. She turned her back on him and began walking up the slope....
+**Opening:** The tunnel smelled of raw clay and crushed stone. He lay on his back, staring up at the jagged hole where the Bore had been. Silence. It pressed against his ears, a physical weight after the hours of screaming drills. "You are bleeding," Elara said. She looked like a statue dragged through a gutter. "Ichor?" he asked. "Blood," Elara said. She pointed at his shoulder. "Good," he said. "Red is good." She didn't look at him; she looked at the tunnel wall, pressing a hand against the fresh earth. "The resonance is gone," she said. "The machine is dead. The city has stopped its descent." Cassian got to his feet. "We collapsed the shaft," Cassian said. "Vex is trapped." "He has the fuel," Elara said. She turned her back on him and began walking up the slope. "He wanted the deep strata. He is in the deep strata. Let him...
 
 **Closing:** ...green and gold. Leaves unfurled—broad, translucent leaves that drank the sunlight. In seconds, it was a tree. A Glass-Tree. But not the artificial, welded metal of the Spire. This was real wood. Real chlorophyll. Cassian stepped back. He leaned against the hot railing. The tree rustled. It didn't make the sound of metal on metal. It made the sound of wind in leaves. A single fruit hung from the lowest branch. An apple. Red as blood. Cassian picked it. He took a bite. It was sweet. It was sour. It was crisp. He could see the Slums. He could see the Rust Belt. He could see people coming out of the tunnels. He could see them looking up at the Spire. He looked at the apple in his hand. "It's not a memory," he said. He took another bite. The juice ran down his chin. It felt like a tear.
 
@@ -1101,7 +1083,7 @@ He looked at the apple in his hand.
 
 > "
 
-Cassian hesitated. He cupped his hands under the spray. The liquid was warm. It smelled like ozone and old copper. He brought it to his lips.
+Cassian hesitated. He cupped his hands under the spray.  He brought it to his lips.
 
 He swallowed.
 
@@ -1124,12 +1106,12 @@ But now, the lens was dark.
 
 ---
 
-### Chapter 15 (1239 words)
-**Summary:** Cassian disrupts the drilling operation by matching the resonance of the Spire, causing the "Queen" to erupt through the roof as massive roots that destroy the equipment and kill Vex. The Obsidian Eye is reconfigured to incinerate the High Auditor, and the biological infestation rapidly consumes the fallen machinery, spreading bioluminescent light throughout the city. Cassian descends into the Spire, abandoning his role as an Excavator to secretly oppose the regime from within the structure itself.
+### Chapter 15 (1087 words)
+**Summary:** Cassian uses his resonance ability to trigger a violent botanical eruption from the Spire, destroying the roof and killing Vex by redirecting the Obsidian Eye’s solar beam onto him. The massive drill falls, but the rapidly spreading roots of the Glass-Tree consume the machinery and begin infusing the city with bioluminescent light. Cassian descends into the Spire's interior, abandoning his role as an Excavator to confront the remaining forces of the city.
 
 **Opening:** The Spire did not fall. It screamed. Cassian threw himself flat against the concert floor as the roof split. A fissure wide enough to swallow a man opened near the parapet, vomiting clouds of gray dust and the smell of old, wet mortar. The drill-bit whined above, a toothless god trying to chew through granite, but the earth fought back. Cassian scrambled backward, boots scrabbling for purchase on the trembling tile. "Structural integrity failing," Vex said. His voice was calm, amplified by the synthesizer in his throat. "Reinforce the western buttresses. Deploy the gel-pack." The crane operator swung the massive drill sideways, fighting the gale-force wind whipping around the Spire. The bit gouged the roof, sending sparks showering down like lethal fireflies. "You have to stop it!" Cassian shouted. He grabbed the edge of a planter box, hauling himself up. "The resonance! You're matching her frequency!" The High Auditor tilted...
 
-**Closing:** ...was cool to the touch. "History," he said. His voice was a rasp. "Takes root." A leaf drifted down from above. It landed on his knee. Not metal. Real leaf. Veined and fragile. He crushed it in his fist. The juice stained his skin green. He stood up. The wind was gone. The air pressure was normal. He walked to the service hatch. It was bent, buckled by the roots, but open. He didn't climb down. He looked at the tunnel leading to the Spire interior. The Sanitizers would be regrouping. The Censors would be panicking. The Queen wasn't on the balcony anymore. She was in the walls. She was in the water. She was the structure now. Cassian Varr, the Chronicler, the last Excavator, put the porcelain shard in his pocket. He had a new job now. He had to audit the audit. He descended into the green dark.
+**Closing:** ...of the city, and they were bleeding light into the lower levels. He picked up a shard of the porcelain mask. It was cool to the touch. "History," he said. His voice was a rasp. "Takes root." A leaf drifted down from above. It landed on his knee. Not metal. Real leaf. Veined and fragile. He crushed it in his fist. The juice stained his skin green. He stood up. The wind was gone. The air pressure was normal. He walked to the service hatch. It was bent, buckled by the roots, but open. He didn't climb down. He looked at the tunnel leading to the Spire interior. The Sanitizers would be regrouping. The Censors would be panicking. Cassian Varr, the Chronicler, the last Excavator, put the porcelain shard in his pocket. He had a new job now. He had to audit the audit. He descended into the green dark.
 
 **Key dialogue:**
 > "
@@ -1151,8 +1133,6 @@ The drill-bit above groaned. The crane operator, blinded by the sudden shift in 
 The cable snapped.
 
 The drill, a hundred tons of steel, dropped.
-
-It didn't hit the roof. It smashed into the side of the Spire, tearing through the lower levels, shearing off the balcony where the Queen had been planted.
 
 Cassian lay on the tiles. He waited for the pain. The Nausea. The end.
 
@@ -1212,13 +1192,17 @@ The lens was hot. Scorching hot. But the metal housing was cold.
 
 He gripped the manual override clutch. It was rusted shut.
 
-"
+ "
 
 
 ---
 
 ### Chapter 16 (3266 words)
-**Summary:** Cassian escapes the Spire's roof and descends into the city, where he discovers that the Queen is actively feeding on Chronite to anchor herself, while Vex has enslaved the local Excavators to dig for her. To stop the machine, Cassian uses a tuning fork to snap the drill's anchor cable, but the interference causes the Chronite to possess the machinery, birthing a monstrous, organic avatar of the Queen. The Queen destroys the Sanitizers, opens a shaft to the deep Mantle, and descends, leaving Cassian and his allies with no choice but to follow her into the depths.
+**Summary:** Cassian escapes the Spire and descends into the city with Kait, discovering that the Queen is using the green vines to consume Chronite and feed. They find the Excavators enslaved at the Bore, where Cassian uses a tuning fork to snap the drill's anchor cable and halt the machine. The sabotage backfires when the Queen absorbs the drill, transforming it into a living weapon that she uses to burrow deeper into the earth.
+
+The Queen manifests physically, transforming the technological threat into a biological one and shifting the conflict from a rescue mission to a pursuit. Cassian’s role changes from a saboteur trying to stop the drilling to a "Chronicler" compelled to follow the Queen into the depths.
+
+It remains unknown what the Queen intends to do at the Mantle and whether Cassian and his allies can survive the journey down into the earth.
 
 **Opening:** The Spire did not fall. It screamed. Cassian threw himself flat against the concert floor as the roof split. A fissure wide enough to swallow a man opened near the parapet, vomiting clouds of gray dust and the smell of old, wet mortar. The drill-bit whined above, a toothless god trying to chew through granite, but the earth fought back. Cassian scrambled backward, boots scrabbling for purchase on the trembling tile. His left eye throbbed—a sharp, hot needle driving itself into the socket. The under-note. The resonance of the deep strata vibrating in harmony with the Queen’s return. "Structural integrity failing," Vex said. His voice was calm, amplified by the synthesizer in his throat. He stood amidst the chaos, white suit flapping, tapping a command into his wrist-gauntlet. "Reinforce the western buttresses. Deploy the gel-pack." The crane operator swung the massive drill sideways, fighting the gale-force wind whipping around the...
 
@@ -1308,8 +1292,8 @@ The cable began to sing back. A low, dangerous thrum. The individual strands beg
 
 ---
 
-### Chapter 17 (2376 words)
-**Summary:** Cassian, Otho, and Kait descend into the city's depths to find a blue, humming wall where the Queen has recently passed, eventually tracking her trail to a subterranean hall where the antagonist Vex is draining a Chronite machine to harvest energy. A violent confrontation ensues, culminating in Kait throwing a tuning fork into the machine's core, which inverts the frequency and liquefies the floor, swallowing Vex and the device while leaving Cassian injured. With the path to the Mantle now open and a haunting song rising from the depths, the injured group chooses to climb down into the unknown to stop the Queen from waking the fire, despite the risk that the time lag will erase their existence.
+### Chapter 17 (2322 words)
+**Summary:** Cassian, Otho, and Kait descend through the city's geological layers to intercept Vex, discovering a machine he is using to harvest energy from the Foundation Era. A violent confrontation ensues, culminating in Kait throwing a tuning fork that disrupts the machine's frequency and causes Vex to fall into the collapsing earth. With Vex gone and the path to the Mantle open, the group hears the Queen singing from the depths and chooses to descend further despite the fatal risk of "The Lag."
 
 **Opening:** The steel bit into his palms. Cassian lowered himself, boots scraping against the rusted girder. The metal groaned, a high-pitched whine that vibrated in his molars. He looked up. Otho’s silhouette blocked the circle of light from the floor above. Kait was a smaller shadow beside her. They were descending. Good. Cassian dropped the last few feet to the platform below. His knees buckled. He caught himself on a pile of shale, the sharp rocks digging into his gloves. The silence was a relief. It felt like pressing a bruised thumb against cold iron. Otho landed beside him with a grunt. Kait hopped down, light as a rat, clutching the cracked porcelain mask to her chest. "Quiet," Cassian said. The circular bore of the Sanitizer drill had chewed through the basalt, opening a jagged wound in the city's foundation. The walls here were smooth, glass-like, melted by the friction of...
 
@@ -1358,7 +1342,7 @@ They were in a hall. It was vast, ceiling lost in the gloom above. The walls wer
 
 In the center of the hall stood a machine.
 
-It wasn't Sanitizer tech. It was too old. Too ornate. It looked like a ribcage made of brass and iron, enclosing a spinning core of green light. The green light pulsed, pushing against the walls, expanding and contracting.
+ It looked like a ribcage made of brass and iron, enclosing a spinning core of green light. The green light pulsed, pushing against the walls, expanding and contracting.
 
 And standing next to it, holding a human heart in his hand, was a man.
 
@@ -1392,7 +1376,7 @@ Vex stood up. The hole of his face worked, the muscle bunching and spasming. The
 ---
 
 ### Chapter 18 (3197 words)
-**Summary:** Cassian leads his team into the deep earth to extract the fossilized Queen Elara, waking her with sound just as a massive, subterranean beast begins to stir beneath the city. The group flees the rising heat and an ambush by Vex’s forces, narrowly escaping the depths via a malfunctioning lift that Elara stabilizes with her powers. They arrive at the Spire only to be confronted by Vex and his soldiers, leaving Cassian standing wounded between the awakened Queen and the city's enforcers.
+**Summary:** Cassian leads his team into the deep earth to extract the fossilized Queen Elara, waking her with sound just as a massive, subterranean beast begins to stir beneath the city. The group escapes a lethal ambush by Vex’s forces, using a malfunctioning lift to ascend to the Spire while Elara uses her magnetic powers to stabilize their ride. They arrive at the top to find Vex waiting for them, leading to a standoff where Cassian declares his intention to audit the antagonist rather than submit.
 
 **Opening:** The steel bit into his palms. Cassian lowered himself, boots scraping against the rusted girder. The metal groaned, a high-pitched whine that vibrated in his molars. The air down here didn't move. It hung, heavy and wet, tasting of sulfur and the copper tang of old blood. He looked up. Otho’s silhouette blocked the circle of light from the floor above. Kait was a smaller shadow beside her. They were descending. Good. Cassian dropped the last few feet to the platform below. His knees buckled. He caught himself on a pile of shale, the sharp rocks digging into his gloves. He waited for the spike of nausea. It didn't come. The deeper he went, the quieter the noise in his head became. The constant static of the city—the drills, the presses, the screams of the lifted gears—faded into the earth. The silence was a relief. It felt like pressing a...
 
@@ -1455,7 +1439,7 @@ The stone throne crumbled to dust. She wore a dress of rusted iron, the chains h
 ---
 
 ### Chapter 19 (2610 words)
-**Summary:** Vex attempts to arrest the group for violating health codes, but Elara reveals her power by destroying his Sanitizers and forcing him to retreat, while Cassian uses his Chronite blood to sabotage the lift controls. The group activates the Obsidian Eye, exposing the lethal violet radiation of the dying sun and destabilizing the Spire's structure, leading to a chaotic confrontation where Elara sacrifices herself to become the building's foundation and Vex is thrown into the abyss. Cassian, Kait, and Otho survive by jumping into the Mid-Levels, where Cassian realizes his Chronite infection has cleared and resolves to search the Archives for what the Queen left behind.
+**Summary:** Vex attempts to arrest the group for violating health codes, but Elara reveals her power by destroying his Sanitizers and forcing him to retreat before she sacrifices herself to stabilize the crumbling Spire. Cassian uses the distraction to rust the lift controls, forcing the group to jump from the Observation Deck into the Mid-Levels to survive the collapse. The city is saved from destruction, but the group is left stranded in the Market with the revelation that the sun is still burning and the "dead" world above is accessible.
 
 **Opening:** The light of the Spire was not warm. It was a clinical, piercing white that lacked a source, bleaching the color out of Cassian’s coat and turning the black ichor dripping from his nose into a slick, dark mirror. Vex stood five paces away. The porcelain mask was smooth, featureless except for the two glass lenses and the vertical grill where a mouth should be. He held the white cane loosely in one gloved hand. "Audit," Vex said. The word vibrated through the soles of Cassian’s boots. The floor was polished marble—real stone, not synthetic. It felt alien after the grit of the Mid-Levels. "You are dragging biological contaminants into a sterile environment, Chronicler. And a fossil. That is a violation of health code four." The Queen’s skin was still cracking, flakes of golden shale falling from her shoulders like dandruff. She left dusty footprints on the white marble. "I...
 
